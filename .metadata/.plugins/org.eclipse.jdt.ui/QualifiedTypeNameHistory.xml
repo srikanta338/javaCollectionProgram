@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.service.ServiceImp"/>
+<fullyQualifiedTypeName name="com.exception.Avalibilty"/>
+<fullyQualifiedTypeName name="com.model.Organization"/>
+<fullyQualifiedTypeName name="java.lang.Comparable"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="com.model.NameSort"/>
+<fullyQualifiedTypeName name="com.model.Employee"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="com.model.SalarySort"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.model.Person"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+<fullyQualifiedTypeName name="com.utility.PersonUtility"/>
+<fullyQualifiedTypeName name="looseCoupling.Topic"/>
+<fullyQualifiedTypeName name="looseCoupling.Topic1"/>
+<fullyQualifiedTypeName name="looseCoupling.Topic2"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+</qualifiedTypeNameHistroy>

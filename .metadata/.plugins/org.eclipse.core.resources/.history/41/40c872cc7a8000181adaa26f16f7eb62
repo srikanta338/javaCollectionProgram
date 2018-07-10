@@ -1,0 +1,18 @@
+package com.otest;
+
+import java.util.HashMap;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	HashMap<String, String>hmap=new HashMap<>();
+	hmap.put("four", "black");
+	hmap.put("Three", "yellow");
+	hmap.put("two", "blue");
+	hmap.put("one", "green");
+	System.out.println(hmap);
+
+	}
+
+}

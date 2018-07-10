@@ -1,0 +1,11 @@
+package com.ok;
+
+import java.util.Map;
+
+public class Student {
+	
+	Map<String, String>map=new Map<String, String>(){
+		
+	}
+
+}

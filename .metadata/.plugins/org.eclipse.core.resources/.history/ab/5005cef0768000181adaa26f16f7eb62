@@ -1,0 +1,7 @@
+package com.ok;
+
+public class Student {
+	
+	Map<String, String>map=new 
+
+}
